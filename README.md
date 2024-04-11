@@ -1,6 +1,6 @@
 # Zen 2D Rubik's cube
 
-Zen 2D Rubik's cube is a GUI interactivee virtual 2D Rubik's cube for zen-like solving. Done using Golang and SDL2.
+Zen 2D Rubik's cube is a GUI interactive virtual 2D Rubik's cube for zen-like solving. Done using Golang and SDL2.
 
 You can train algorithms or just play around with a virtual cube. No pressure no timer, go fullscreen for max zen and scramble the cube in peace. With the clock in the corner you'll know whenever it's the time to end.
 
